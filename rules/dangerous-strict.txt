@@ -1,0 +1,11 @@
+! Ad Filter Pro - Dangerous Strict
+! Critical/high-confidence dangerous domains only.
+! Keep this list conservative. Avoid speculative entries.
+
+malware.wicar.org
+malware.test
+phishing.test
+scam.test
+danger.example.com
+phishing.example.com
+

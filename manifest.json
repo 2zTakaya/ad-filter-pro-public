@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-14T00:00:00Z",
+  "feeds": [
+    {
+      "id": "ads-high-confidence",
+      "path": "rules/ads-high-confidence.txt",
+      "category": "ads",
+      "trust": "high",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
+      "id": "trackers-high-confidence",
+      "path": "rules/trackers-high-confidence.txt",
+      "category": "tracker",
+      "trust": "high",
+      "defaultEnabled": true,
+      "maxRules": 80000
+    },
+    {
+      "id": "mobile-ad-sdk",
+      "path": "rules/mobile-ad-sdk.txt",
+      "category": "mobile_ad_sdk",
+      "trust": "high",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
+      "id": "mobile-ad-sdk-candidates",
+      "path": "rules/mobile-ad-sdk-candidates.txt",
+      "category": "mobile_ad_sdk_candidate",
+      "trust": "medium",
+      "defaultEnabled": false,
+      "maxRules": 50000
+    },
+    {
+      "id": "dangerous-strict",
+      "path": "rules/dangerous-strict.txt",
+      "category": "dangerous",
+      "trust": "strict",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
+      "id": "dangerous-standard",
+      "path": "rules/dangerous-standard.txt",
+      "category": "dangerous",
+      "trust": "standard",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
+      "id": "phishing-scam",
+      "path": "rules/phishing-scam.txt",
+      "category": "phishing_scam",
+      "trust": "strict",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
+      "id": "doh-resolvers",
+      "path": "rules/doh-resolvers.txt",
+      "category": "doh",
+      "trust": "high",
+      "defaultEnabled": false,
+      "maxRules": 10000
+    },
+    {
+      "id": "cautious-block",
+      "path": "rules/cautious-block.txt",
+      "category": "cautious",
+      "trust": "medium",
+      "defaultEnabled": false,
+      "maxRules": 50000
+    },
+    {
+      "id": "sensitive-allowlist",
+      "path": "rules/sensitive-allowlist.txt",
+      "category": "allowlist",
+      "trust": "high",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    }
+  ]
+}

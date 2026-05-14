@@ -1,0 +1,9 @@
+! Ad Filter Pro - Dangerous Standard
+! Suspicious domains that may be warned or blocked depending on protection style.
+! Starter list intentionally small until independent review data grows.
+
+fake-login.example.com
+fake-prize.example.com
+support-scam.example.com
+account-warning.example.com
+

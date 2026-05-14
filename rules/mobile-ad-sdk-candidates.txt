@@ -1,0 +1,75 @@
+! Ad Filter Pro - Mobile Ad SDK Candidates
+! Medium-confidence candidates. Do not enable by default.
+! Promote to mobile-ad-sdk.txt only after official endpoint confirmation or real-device log validation.
+
+adjoe.io
+prod.adjoe.zone
+
+apodeal.com
+api.apodeal.com
+bidder.apodeal.com
+gum.criteo.com
+
+audience.network
+graph.facebook.com
+connect.facebook.net
+
+chocolateplatform.com
+ads.chocolateplatform.com
+
+improvedigital.com
+ad.360yield.com
+
+indexexchange.com
+htlb.casalemedia.com
+
+linecorp.com
+ads.line.me
+adnetwork.line.me
+
+nexxen.com
+unrulymedia.com
+
+api.pubnative.net
+cdn.pubnative.net
+
+superawesome.com
+ads.superawesome.tv
+
+hybid.pubnative.net
+
+vpon.com
+tw-api.vpon.com
+jp-api.vpon.com
+
+yandexadexchange.net
+mobile.yandexadexchange.net
+adsdk.yandex.ru
+
+yieldone.com
+
+! Observed on real device, needs additional review before default block.
+spadsync.com
+a.pemsrv.com
+s.pemsrv.com
+fam-ad.com
+deliver.ptgncdn.com
+video.sacdnssedge.com
+static.trafficjunky.com
+media.trafficjunky.net
+tsyndicate.com
+lcdn.tsyndicate.com
+
+! Auto-extracted from full-device log review (2026-05-14); pending promotion review.
+! Promoted on 2026-05-14:
+! ogads-pa.clients6.google.com
+! d-cache.microad.jp
+! yads.yjtag.yahoo.co.jp
+! edge.ads.twitch.tv
+! www.adsensecustomsearchads.com
+! ad.poly.admatrix.jp
+! aid.send.microad.jp
+! beacon.watch.impress.co.jp
+! cdn.microad.jp
+! ep1.adtrafficquality.google
+! img.polymorphicads.jp

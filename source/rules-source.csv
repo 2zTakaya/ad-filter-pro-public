@@ -1,0 +1,91 @@
+domain,feed,category,confidence,action,reason,review_basis,first_added
+doubleclick.net,ads-high-confidence,ads,high,block,Dedicated Google ad delivery domain,general public/vendor knowledge,2026-05-14
+googlesyndication.com,ads-high-confidence,ads,high,block,Dedicated Google ad serving/syndication domain,general public/vendor knowledge,2026-05-14
+googleadservices.com,ads-high-confidence,ads,high,block,Dedicated Google ad click/service domain,general public/vendor knowledge,2026-05-14
+adservice.google.com,ads-high-confidence,ads,high,block,Dedicated Google ad service host,general public/vendor knowledge,2026-05-14
+pagead2.googlesyndication.com,ads-high-confidence,ads,high,block,Dedicated Google page ad host,general public/vendor knowledge,2026-05-14
+mobileads.google.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Google mobile ads endpoint,general public/vendor knowledge,2026-05-14
+adnxs.com,ads-high-confidence,ads,high,block,Known ad exchange domain,general public/vendor knowledge,2026-05-14
+criteo.com,ads-high-confidence,ads,high,block,Known advertising/retargeting platform,general public/vendor knowledge,2026-05-14
+criteo.net,ads-high-confidence,ads,high,block,Known advertising/retargeting platform,general public/vendor knowledge,2026-05-14
+openx.net,ads-high-confidence,ads,high,block,Known ad exchange platform,general public/vendor knowledge,2026-05-14
+pubmatic.com,ads-high-confidence,ads,high,block,Known ad platform,general public/vendor knowledge,2026-05-14
+rubiconproject.com,ads-high-confidence,ads,high,block,Known ad exchange platform,general public/vendor knowledge,2026-05-14
+taboola.com,ads-high-confidence,ads,high,block,Known content recommendation advertising platform,general public/vendor knowledge,2026-05-14
+outbrain.com,ads-high-confidence,ads,high,block,Known content recommendation advertising platform,general public/vendor knowledge,2026-05-14
+revcontent.com,ads-high-confidence,ads,high,block,Known content recommendation advertising platform,general public/vendor knowledge,2026-05-14
+mgid.com,ads-high-confidence,ads,high,block,Known native/content advertising platform,general public/vendor knowledge,2026-05-14
+unityads.unity3d.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Unity Ads monetization endpoint,official SDK/product documentation category,2026-05-14
+unityads4.unity3d.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Unity Ads monetization endpoint,official SDK/product documentation category,2026-05-14
+config.unityads.unity3d.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Unity Ads SDK configuration endpoint,official SDK/product documentation category,2026-05-14
+webview.unityads.unity3d.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Unity Ads webview/ad content endpoint,official SDK/product documentation category,2026-05-14
+applovin.com,mobile-ad-sdk,mobile_ad_sdk,high,block,AppLovin mobile ad SDK/platform domain,official SDK/product documentation category,2026-05-14
+applvn.com,mobile-ad-sdk,mobile_ad_sdk,high,block,AppLovin mobile ad SDK/platform domain,official SDK/product documentation category,2026-05-14
+ms.applovin.com,mobile-ad-sdk,mobile_ad_sdk,high,block,AppLovin SDK/mediation endpoint,official SDK/product documentation category,2026-05-14
+ms.applvn.com,mobile-ad-sdk,mobile_ad_sdk,high,block,AppLovin SDK/mediation endpoint,official SDK/product documentation category,2026-05-14
+vungle.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Vungle/Liftoff mobile ad platform domain,general public/vendor knowledge,2026-05-14
+ads.vungle.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Vungle ad delivery endpoint,general public/vendor knowledge,2026-05-14
+api.vungle.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Vungle SDK API endpoint,general public/vendor knowledge,2026-05-14
+ironsrc.com,mobile-ad-sdk,mobile_ad_sdk,high,block,ironSource/LevelPlay mobile monetization domain,official SDK/product documentation category,2026-05-14
+supersonicads.com,mobile-ad-sdk,mobile_ad_sdk,high,block,ironSource/Supersonic ad platform domain,official SDK/product documentation category,2026-05-14
+mintegral.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad network domain,general public/vendor knowledge,2026-05-14
+mintegral.net,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad network domain,general public/vendor knowledge,2026-05-14
+inmobi.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad network domain,general public/vendor knowledge,2026-05-14
+pangle.io,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad network domain,general public/vendor knowledge,2026-05-14
+pangleglobal.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad network domain,general public/vendor knowledge,2026-05-14
+tapjoy.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad/offerwall SDK domain,general public/vendor knowledge,2026-05-14
+chartboost.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad SDK domain,general public/vendor knowledge,2026-05-14
+adcolony.com,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad SDK domain,general public/vendor knowledge,2026-05-14
+smaato.net,mobile-ad-sdk,mobile_ad_sdk,high,block,Mobile ad exchange domain,general public/vendor knowledge,2026-05-14
+adjust.com,trackers-high-confidence,attribution,high,block,Mobile attribution/measurement SDK domain,official SDK/product documentation category,2026-05-14
+app.adjust.com,trackers-high-confidence,attribution,high,block,Adjust attribution SDK endpoint,official SDK/product documentation category,2026-05-14
+appsflyer.com,trackers-high-confidence,attribution,high,block,Mobile attribution/measurement SDK domain,official SDK/product documentation category,2026-05-14
+cdn.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer SDK/support endpoint,official SDK/product documentation category,2026-05-14
+branch.io,trackers-high-confidence,attribution,high,block,Mobile deep-link/attribution SDK domain,official SDK/product documentation category,2026-05-14
+api2.branch.io,trackers-high-confidence,attribution,high,block,Branch SDK API endpoint,official SDK/product documentation category,2026-05-14
+kochava.com,trackers-high-confidence,attribution,high,block,Mobile measurement/attribution SDK domain,official SDK/product documentation category,2026-05-14
+singular.net,trackers-high-confidence,attribution,high,block,Mobile measurement/attribution SDK domain,official SDK/product documentation category,2026-05-14
+tenjin.io,trackers-high-confidence,attribution,high,block,Mobile attribution SDK domain,general public/vendor knowledge,2026-05-14
+amplitude.com,trackers-high-confidence,analytics,high,block,Product analytics platform domain,general public/vendor knowledge,2026-05-14
+mixpanel.com,trackers-high-confidence,analytics,high,block,Product analytics platform domain,general public/vendor knowledge,2026-05-14
+segment.com,trackers-high-confidence,analytics,high,block,Customer data/analytics platform domain,general public/vendor knowledge,2026-05-14
+segment.io,trackers-high-confidence,analytics,high,block,Customer data/analytics platform domain,general public/vendor knowledge,2026-05-14
+flurry.com,trackers-high-confidence,analytics,high,block,Mobile analytics platform domain,general public/vendor knowledge,2026-05-14
+scorecardresearch.com,trackers-high-confidence,analytics,high,block,Audience measurement domain,general public/vendor knowledge,2026-05-14
+quantserve.com,trackers-high-confidence,analytics,high,block,Audience measurement domain,general public/vendor knowledge,2026-05-14
+hotjar.com,trackers-high-confidence,analytics,high,block,Web analytics/session behavior platform,general public/vendor knowledge,2026-05-14
+cloudflare-dns.com,doh-resolvers,doh,high,block_when_advanced,Known public DoH resolver host,public resolver documentation/general knowledge,2026-05-14
+dns.google,doh-resolvers,doh,high,block_when_advanced,Known public DoH resolver host,public resolver documentation/general knowledge,2026-05-14
+dns.nextdns.io,doh-resolvers,doh,high,block_when_advanced,Known public DoH resolver host,public resolver documentation/general knowledge,2026-05-14
+dns.quad9.net,doh-resolvers,doh,high,block_when_advanced,Known public DoH resolver host,public resolver documentation/general knowledge,2026-05-14
+dns.adguard.com,doh-resolvers,doh,high,block_when_advanced,Known public DoH resolver host,public resolver documentation/general knowledge,2026-05-14
+accounts.google.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Authentication domain,sensitive service category,2026-05-14
+oauth2.googleapis.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Authentication/API domain,sensitive service category,2026-05-14
+fcm.googleapis.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Push notification domain,sensitive service category,2026-05-14
+play.googleapis.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Google Play service/API domain,sensitive service category,2026-05-14
+paypal.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Payment domain,sensitive service category,2026-05-14
+paypay.ne.jp,sensitive-allowlist,sensitive,high,protect_from_auto_block,Payment domain,sensitive service category,2026-05-14
+api.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer attribution API-style endpoint,official SDK/product documentation category,2026-05-14
+events.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer event/attribution endpoint,official SDK/product documentation category,2026-05-14
+inapps.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer in-app measurement endpoint,official SDK/product documentation category,2026-05-14
+api.branch.io,trackers-high-confidence,attribution,high,block,Branch SDK API endpoint,official SDK/product documentation category,2026-05-14
+cdn.branch.io,trackers-high-confidence,attribution,high,block,Branch SDK support endpoint,official SDK/product documentation category,2026-05-14
+kvinit-prod.api.kochava.com,trackers-high-confidence,attribution,high,block,Kochava SDK initialization/API endpoint,official SDK/product documentation category,2026-05-14
+imp.control.kochava.com,trackers-high-confidence,attribution,high,block,Kochava measurement/control endpoint,official SDK/product documentation category,2026-05-14
+i.singular.net,trackers-high-confidence,attribution,high,block,Singular attribution endpoint,official SDK/product documentation category,2026-05-14
+sdk-api-v1.singular.net,trackers-high-confidence,attribution,high,block,Singular SDK API endpoint,official SDK/product documentation category,2026-05-14
+analytics.tenjin.io,trackers-high-confidence,attribution,high,block,Tenjin attribution/analytics endpoint,general public/vendor knowledge,2026-05-14
+api2.amplitude.com,trackers-high-confidence,analytics,high,block,Amplitude analytics API endpoint,general public/vendor knowledge,2026-05-14
+decide.mixpanel.com,trackers-high-confidence,analytics,high,block,Mixpanel feature/analytics endpoint,general public/vendor knowledge,2026-05-14
+api.bidmachine.io,mobile-ad-sdk,mobile_ad_sdk,high,block,BidMachine mobile ad SDK API endpoint,official SDK/product documentation category,2026-05-14
+server.bidmachine.io,mobile-ad-sdk,mobile_ad_sdk,high,block,BidMachine mobile ad SDK server endpoint,official SDK/product documentation category,2026-05-14
+api.hyprmx.com,mobile-ad-sdk,mobile_ad_sdk,high,block,HyprMX mobile ad SDK API endpoint,general public/vendor knowledge,2026-05-14
+ads.hyprmx.com,mobile-ad-sdk,mobile_ad_sdk,high,block,HyprMX mobile ad serving endpoint,general public/vendor knowledge,2026-05-14
+ad.maio.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,maio mobile ad delivery endpoint,general public/vendor knowledge,2026-05-14
+api.adfurikun.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,Adfurikun mobile ad SDK/API endpoint,general public/vendor knowledge,2026-05-14
+ad.ad-stir.com,mobile-ad-sdk,mobile_ad_sdk,high,block,AdStir mobile ad delivery endpoint,general public/vendor knowledge,2026-05-14
+d.ad-generation.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,Ad Generation ad delivery endpoint,general public/vendor knowledge,2026-05-14
+ad.fluct.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,fluct ad delivery endpoint,general public/vendor knowledge,2026-05-14
+js.genieesspv.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,Geniee SSP ad script/serving endpoint,general public/vendor knowledge,2026-05-14
+ad.zucks.net,mobile-ad-sdk,mobile_ad_sdk,high,block,Zucks mobile ad network delivery endpoint,public company/service information,2026-05-14
+spad.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile smartphone ad delivery endpoint,public company/service information,2026-05-14

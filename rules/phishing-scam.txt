@@ -1,0 +1,10 @@
+! Ad Filter Pro - Phishing and Scam
+! High-confidence phishing/scam domains. Short-lived entries should be reviewed frequently.
+
+phishing.test
+scam.test
+phishing.example.com
+fake-login.example.com
+fake-prize.example.com
+support-scam.example.com
+
