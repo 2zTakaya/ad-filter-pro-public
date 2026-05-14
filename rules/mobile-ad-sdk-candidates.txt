@@ -5,9 +5,6 @@
 adjoe.io
 prod.adjoe.zone
 
-apodeal.com
-api.apodeal.com
-bidder.apodeal.com
 gum.criteo.com
 
 audience.network
@@ -30,13 +27,8 @@ adnetwork.line.me
 nexxen.com
 unrulymedia.com
 
-api.pubnative.net
-cdn.pubnative.net
-
 superawesome.com
 ads.superawesome.tv
-
-hybid.pubnative.net
 
 vpon.com
 tw-api.vpon.com

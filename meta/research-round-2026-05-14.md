@@ -14,6 +14,7 @@ filter-list contents.
 - AppsFlyer SDK documentation
 - Kochava / Singular / BidMachine public SDK/product documentation
 - Public Japanese mobile ad network pages for i-mobile and Zucks
+- Public Japanese mobile ad network pages for nend and AMoAd
 - Google AdMob mediation ad-source lists
 - AppLovin MAX supported network lists
 - Public Android SDK documents for Chartboost, Digital Turbine, BidMachine,
@@ -60,7 +61,7 @@ adds more SDK/API/ad-serving style hosts for:
 - Ogury
 - Moloco
 - Japanese mobile ad networks such as i-mobile, Zucks, AdStir, maio,
-  Ad Generation, fluct, and Geniee-related hosts
+  Ad Generation, fluct, Geniee-related hosts, nend, and AMoAd
 
 Medium-confidence networks that are common in mediation but more likely to
 overlap with broad first-party services were placed in

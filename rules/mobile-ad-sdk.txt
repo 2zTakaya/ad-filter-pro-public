@@ -198,6 +198,10 @@ global.appnext.com
 cdn.appnext.com
 admin.appnext.com
 
+apodeal.com
+api.apodeal.com
+bidder.apodeal.com
+
 mytarget.ru
 ad.mail.ru
 
@@ -217,8 +221,18 @@ maio.jp
 ad.maio.jp
 spapi.i-mobile.co.jp
 
+nend.net
+ad1.nend.net
+js1.nend.net
+img1.nend.net
+
 adfurikun.jp
 api.adfurikun.jp
+
+amoad.com
+ad.amoad.com
+j.amoad.com
+i.amoad.com
 
 ad-stir.com
 ad.ad-stir.com
@@ -242,6 +256,10 @@ ad.zucks.net
 sh.zucks.net
 
 spad.i-mobile.co.jp
+
+api.pubnative.net
+cdn.pubnative.net
+hybid.pubnative.net
 
 ! Promoted from real-device full-log review (2026-05-14)
 d-cache.microad.jp
