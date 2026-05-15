@@ -1,10 +1,7 @@
 ! Ad Filter Pro - Trackers High Confidence
 ! Analytics, attribution, beacon, and tracking domains.
 
-app-measurement.com
 analytics.google.com
-google-analytics.com
-googletagmanager.com
 googletagservices.com
 firebase-settings.crashlytics.com
 

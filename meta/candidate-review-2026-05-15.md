@@ -38,3 +38,29 @@ This note records the next round of rule expansion based on public vendor docs a
 - Default high-confidence feeds remain reserved for ad and tracker infrastructure with low breakage risk.
 - Monitoring / crash-reporting domains are useful targets, but cautious mode is the right first step.
 - When runtime logs show repeated, non-sensitive hits, candidates can later be reviewed for promotion.
+
+## Afternoon device log review (2026-05-15)
+
+Review window:
+- `2026-05-15 12:00` to `16:59` (JST), real device DB snapshot.
+
+Key finding:
+- Site-access failures were concentrated in tracker-domain blocking, not in explicit ad-only domains.
+
+Mitigation applied:
+- Moved these from `trackers-high-confidence` to `cautious-block`:
+  - `app-measurement.com`
+  - `google-analytics.com`
+  - `googletagmanager.com`
+
+New formal candidates from unblocked traffic:
+- `yads.c.yimg.jp`
+- `assets.adobedtm.com`
+- `tck.lmadps.jp`
+- `img.lmadps.jp`
+- `beacons.gcp.gvt2.com`
+- `beacons.gvt2.com`
+- `beacons2.gvt2.com`
+- `beacons3.gvt2.com`
+- `beacons4.gvt2.com`
+- `beacons5.gvt2.com`

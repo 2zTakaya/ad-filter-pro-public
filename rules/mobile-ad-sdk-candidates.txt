@@ -63,3 +63,15 @@ lcdn.tsyndicate.com
 ! cdn.microad.jp
 ! ep1.adtrafficquality.google
 ! img.polymorphicads.jp
+
+! Auto-extracted from real-device afternoon review (2026-05-15); pending promotion review.
+yads.c.yimg.jp
+assets.adobedtm.com
+tck.lmadps.jp
+img.lmadps.jp
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com

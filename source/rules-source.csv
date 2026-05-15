@@ -96,3 +96,6 @@ sessions.bugsnag.com,cautious-block,analytics,medium,block,BugSnag session repor
 browser-intake-datadoghq.com,cautious-block,analytics,medium,block,Datadog RUM/mobile intake endpoint,official SDK/product documentation category,2026-05-15
 http-intake.logs.datadoghq.com,cautious-block,analytics,medium,block,Datadog log intake endpoint,official SDK/product documentation category,2026-05-15
 http-encrypted-intake.logs.datadoghq.com,cautious-block,analytics,medium,block,Datadog encrypted log intake endpoint,official SDK/product documentation category,2026-05-15
+app-measurement.com,cautious-block,analytics,medium,block,Google app measurement endpoint can affect site/app behavior when blocked aggressively,real-device breakage mitigation review,2026-05-15
+google-analytics.com,cautious-block,analytics,medium,block,Analytics endpoint moved to cautious tier to reduce access breakage,real-device breakage mitigation review,2026-05-15
+googletagmanager.com,cautious-block,analytics,medium,block,Tag manager endpoint moved to cautious tier because some sites depend on it for page behavior,real-device breakage mitigation review,2026-05-15
