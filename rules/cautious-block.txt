@@ -6,6 +6,15 @@
 
 ! Consent/CMP and anti-adblock related domains can improve browsing comfort,
 ! but they can also break site flows. Keep them out of balanced defaults.
+api.repro.io
+api.karte.io
+sentry.io
+ingest.sentry.io
+notify.bugsnag.com
+sessions.bugsnag.com
+browser-intake-datadoghq.com
+http-intake.logs.datadoghq.com
+http-encrypted-intake.logs.datadoghq.com
 consensu.org
 cmp.inmobi.com
 fundingchoicesmessages.google.com

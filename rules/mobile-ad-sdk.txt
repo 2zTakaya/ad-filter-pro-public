@@ -256,6 +256,7 @@ ad.zucks.net
 sh.zucks.net
 
 spad.i-mobile.co.jp
+ad.i-mobile.co.jp
 
 api.pubnative.net
 cdn.pubnative.net

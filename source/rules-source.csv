@@ -65,11 +65,6 @@ fcm.googleapis.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Pu
 play.googleapis.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Google Play service/API domain,sensitive service category,2026-05-14
 paypal.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Payment domain,sensitive service category,2026-05-14
 paypay.ne.jp,sensitive-allowlist,sensitive,high,protect_from_auto_block,Payment domain,sensitive service category,2026-05-14
-api.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer attribution API-style endpoint,official SDK/product documentation category,2026-05-14
-events.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer event/attribution endpoint,official SDK/product documentation category,2026-05-14
-inapps.appsflyer.com,trackers-high-confidence,attribution,high,block,AppsFlyer in-app measurement endpoint,official SDK/product documentation category,2026-05-14
-api.branch.io,trackers-high-confidence,attribution,high,block,Branch SDK API endpoint,official SDK/product documentation category,2026-05-14
-cdn.branch.io,trackers-high-confidence,attribution,high,block,Branch SDK support endpoint,official SDK/product documentation category,2026-05-14
 kvinit-prod.api.kochava.com,trackers-high-confidence,attribution,high,block,Kochava SDK initialization/API endpoint,official SDK/product documentation category,2026-05-14
 imp.control.kochava.com,trackers-high-confidence,attribution,high,block,Kochava measurement/control endpoint,official SDK/product documentation category,2026-05-14
 i.singular.net,trackers-high-confidence,attribution,high,block,Singular attribution endpoint,official SDK/product documentation category,2026-05-14
@@ -89,3 +84,15 @@ ad.fluct.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,fluct ad delivery endpoint,ge
 js.genieesspv.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,Geniee SSP ad script/serving endpoint,general public/vendor knowledge,2026-05-14
 ad.zucks.net,mobile-ad-sdk,mobile_ad_sdk,high,block,Zucks mobile ad network delivery endpoint,public company/service information,2026-05-14
 spad.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile smartphone ad delivery endpoint,public company/service information,2026-05-14
+ad.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile smartphone ad delivery endpoint,public company/service information,2026-05-14
+graph.facebook.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Facebook Graph API/social login endpoint,sensitive service category,2026-05-14
+linecorp.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,LINE platform/company domain used by login integrations,sensitive service category,2026-05-14
+api.repro.io,cautious-block,analytics,medium,block,Repro analytics/user-profile API endpoint,official SDK/product documentation category,2026-05-14
+api.karte.io,cautious-block,analytics,medium,block,KARTE app analytics / engagement API endpoint,official SDK/product documentation category,2026-05-15
+sentry.io,cautious-block,analytics,medium,block,Sentry error reporting platform domain,official SDK/product documentation category,2026-05-15
+ingest.sentry.io,cautious-block,analytics,medium,block,Sentry SDK ingest endpoint,official SDK/product documentation category,2026-05-15
+notify.bugsnag.com,cautious-block,analytics,medium,block,BugSnag error reporting endpoint,official SDK/product documentation category,2026-05-15
+sessions.bugsnag.com,cautious-block,analytics,medium,block,BugSnag session reporting endpoint,official SDK/product documentation category,2026-05-15
+browser-intake-datadoghq.com,cautious-block,analytics,medium,block,Datadog RUM/mobile intake endpoint,official SDK/product documentation category,2026-05-15
+http-intake.logs.datadoghq.com,cautious-block,analytics,medium,block,Datadog log intake endpoint,official SDK/product documentation category,2026-05-15
+http-encrypted-intake.logs.datadoghq.com,cautious-block,analytics,medium,block,Datadog encrypted log intake endpoint,official SDK/product documentation category,2026-05-15

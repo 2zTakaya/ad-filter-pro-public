@@ -87,6 +87,8 @@ Avoid spending early effort on:
 4. Update `manifest.json`.
 5. Publish via GitHub raw URLs or release assets.
 
+Human-readable update notes for recent rule changes are kept under `meta/`.
+
 ## Internal Source CSV
 
 The preferred long-term workflow is:

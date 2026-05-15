@@ -31,9 +31,10 @@ rakuten-card.co.jp
 line.me
 access.line.me
 api.line.me
+graph.facebook.com
+linecorp.com
 
 maps.googleapis.com
 maps.google.com
 googleapis.com
 gstatic.com
-
