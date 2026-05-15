@@ -87,6 +87,8 @@ spad.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile smartphone a
 ad.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile smartphone ad delivery endpoint,public company/service information,2026-05-14
 graph.facebook.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Facebook Graph API/social login endpoint,sensitive service category,2026-05-14
 linecorp.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,LINE platform/company domain used by login integrations,sensitive service category,2026-05-14
+amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon advertising system domain validated during EC/browser testing,real-device phase 2 review,2026-05-15
+aax.amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon ad exchange endpoint validated during EC/browser testing,real-device phase 2 review,2026-05-15
 api.repro.io,cautious-block,analytics,medium,block,Repro analytics/user-profile API endpoint,official SDK/product documentation category,2026-05-14
 api.karte.io,cautious-block,analytics,medium,block,KARTE app analytics / engagement API endpoint,official SDK/product documentation category,2026-05-15
 sentry.io,cautious-block,analytics,medium,block,Sentry error reporting platform domain,official SDK/product documentation category,2026-05-15
