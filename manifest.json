@@ -35,6 +35,14 @@
       "maxRules": 50000
     },
     {
+      "id": "popup-high-confidence",
+      "path": "rules/popup-high-confidence.txt",
+      "category": "popup",
+      "trust": "high",
+      "defaultEnabled": true,
+      "maxRules": 50000
+    },
+    {
       "id": "dangerous-strict",
       "path": "rules/dangerous-strict.txt",
       "category": "dangerous",

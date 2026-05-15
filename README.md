@@ -45,6 +45,7 @@ The preferred public format is one domain per line with comments for sections.
 - `rules/ads-high-confidence.txt`
 - `rules/trackers-high-confidence.txt`
 - `rules/mobile-ad-sdk.txt`
+- `rules/popup-high-confidence.txt`
 - `rules/dangerous-strict.txt`
 - `rules/dangerous-standard.txt`
 - `rules/phishing-scam.txt`

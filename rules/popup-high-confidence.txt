@@ -1,0 +1,28 @@
+! Ad Filter Pro - Popup High Confidence
+! Popup-heavy / scam-ad network domains that are generally safe to block.
+
+popads.net
+popcash.net
+propellerads.com
+onclickads.net
+hilltopads.net
+hilltopads.com
+trafficstars.com
+adsterra.com
+adcash.com
+adkernel.com
+clickadu.com
+clicksor.com
+bidvertiser.com
+exoclick.com
+juicyads.com
+zeropark.com
+plugrush.com
+ero-advertising.com
+trafficjunky.net
+
+revcontent.com
+mgid.com
+adnxs.com
+outbrain.com
+taboola.com
