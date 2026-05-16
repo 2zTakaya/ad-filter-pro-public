@@ -89,6 +89,8 @@ graph.facebook.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,Fa
 linecorp.com,sensitive-allowlist,sensitive,high,protect_from_auto_block,LINE platform/company domain used by login integrations,sensitive service category,2026-05-14
 amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon advertising system domain validated during EC/browser testing,real-device phase 2 review,2026-05-15
 aax.amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon ad exchange endpoint validated during EC/browser testing,real-device phase 2 review,2026-05-15
+yads.c.yimg.jp,ads-high-confidence,ads,high,block,Yahoo Japan ad delivery host repeatedly observed in real-device browser testing,real-device phase 3 review,2026-05-16
+js.hs-analytics.net,cautious-block,analytics,medium,block,HubSpot analytics script host observed in real-device browser testing,cautious phase 3 review,2026-05-16
 api.repro.io,cautious-block,analytics,medium,block,Repro analytics/user-profile API endpoint,official SDK/product documentation category,2026-05-14
 api.karte.io,cautious-block,analytics,medium,block,KARTE app analytics / engagement API endpoint,official SDK/product documentation category,2026-05-15
 sentry.io,cautious-block,analytics,medium,block,Sentry error reporting platform domain,official SDK/product documentation category,2026-05-15

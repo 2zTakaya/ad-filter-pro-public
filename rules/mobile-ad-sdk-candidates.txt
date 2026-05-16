@@ -65,7 +65,8 @@ lcdn.tsyndicate.com
 ! img.polymorphicads.jp
 
 ! Auto-extracted from real-device afternoon review (2026-05-15); pending promotion review.
-yads.c.yimg.jp
+! Promoted on 2026-05-16:
+! yads.c.yimg.jp
 assets.adobedtm.com
 tck.lmadps.jp
 img.lmadps.jp

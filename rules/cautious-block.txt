@@ -8,6 +8,7 @@
 ! but they can also break site flows. Keep them out of balanced defaults.
 api.repro.io
 api.karte.io
+js.hs-analytics.net
 app-measurement.com
 google-analytics.com
 googletagmanager.com
