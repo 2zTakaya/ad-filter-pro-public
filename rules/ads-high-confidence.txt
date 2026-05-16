@@ -2,6 +2,7 @@
 ! DNS-level ad serving domains that are unlikely to be required for core app/site operation.
 
 ad.doubleclick.net
+doubleclick.net
 adservice.google.com
 adservice.google.co.jp
 googleadservices.com
