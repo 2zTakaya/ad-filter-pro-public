@@ -38,6 +38,17 @@ yieldmo.com
 yieldlab.net
 adition.com
 admanmedia.com
+
+smartnews-ads.com
+cdn.smartnews-ads.com
+i.smartnews-ads.com
+i6.smartnews-ads.com
+ads.pagesix.com
+kueezrtb.com
+gtrack.kueezrtb.com
+otrack.kueezrtb.com
+track.kueezrtb.com
+static.ads-twitter.com
 admeta.com
 adnami.io
 adsymptotic.com

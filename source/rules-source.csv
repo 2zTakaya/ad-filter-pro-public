@@ -103,3 +103,31 @@ http-encrypted-intake.logs.datadoghq.com,cautious-block,analytics,medium,block,D
 app-measurement.com,cautious-block,analytics,medium,block,Google app measurement endpoint can affect site/app behavior when blocked aggressively,real-device breakage mitigation review,2026-05-15
 google-analytics.com,cautious-block,analytics,medium,block,Analytics endpoint moved to cautious tier to reduce access breakage,real-device breakage mitigation review,2026-05-15
 googletagmanager.com,cautious-block,analytics,medium,block,Tag manager endpoint moved to cautious tier because some sites depend on it for page behavior,real-device breakage mitigation review,2026-05-15
+imp-adedge.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile impression/ad edge endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+imp-bidapi.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile bid API endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+spnativeapi-tls.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile native ad API endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+spvideo.i-mobile.co.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,i-mobile video ad endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+cs.fluctssp.smt.docomo.ne.jp,mobile-ad-sdk,mobile_ad_sdk,high,block,Fluct SSP ad endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+smartnews-ads.com,ads-high-confidence,ads,high,block,SmartNews Ads domain observed during real-device browsing,real-device manual diff review,2026-05-16
+cdn.smartnews-ads.com,ads-high-confidence,ads,high,block,SmartNews Ads CDN endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+i.smartnews-ads.com,ads-high-confidence,ads,high,block,SmartNews Ads delivery endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+i6.smartnews-ads.com,ads-high-confidence,ads,high,block,SmartNews Ads delivery endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+ads.pagesix.com,ads-high-confidence,ads,high,block,Page Six ad host observed during real-device browsing,real-device manual diff review,2026-05-16
+kueezrtb.com,ads-high-confidence,ads,high,block,Kueez RTB advertising platform domain observed during real-device browsing,real-device manual diff review,2026-05-16
+gtrack.kueezrtb.com,ads-high-confidence,ads,high,block,Kueez RTB tracking endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+otrack.kueezrtb.com,ads-high-confidence,ads,high,block,Kueez RTB tracking endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+track.kueezrtb.com,ads-high-confidence,ads,high,block,Kueez RTB tracking endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+static.ads-twitter.com,ads-high-confidence,ads,high,block,X/Twitter ads static host observed during real-device browsing,real-device manual diff review,2026-05-16
+analytics.tiktok.com,trackers-high-confidence,analytics,high,block,TikTok analytics endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+ups.analytics.yahoo.com,trackers-high-confidence,analytics,high,block,Yahoo analytics endpoint observed during real-device browsing,real-device manual diff review,2026-05-16
+sdk.n-analytics.io,cautious-block,analytics,medium,block,Analytics SDK endpoint observed frequently during real-device browsing,cautious manual diff review,2026-05-16
+mybbc-analytics.files.bbci.co.uk,cautious-block,analytics,medium,block,BBC analytics asset endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+cdn.actagtracker.jp,cautious-block,analytics,medium,block,Tracking-tag CDN endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+pixel.wp.com,cautious-block,analytics,medium,block,WordPress pixel endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+ms-ads-monitoring-events.presage.io,cautious-block,analytics,medium,block,Ad monitoring event endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+adtrack.adleadevent.com,cautious-block,analytics,medium,block,Ad lead tracking endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+track.amebame.com,cautious-block,analytics,medium,block,Ameba tracking endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+v2.pixel.newscgp.com,cautious-block,analytics,medium,block,Pixel tracking endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+y.one.impact-ad.jp,cautious-block,ads,medium,block,Impact ad endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+img.ak.impact-ad.jp,cautious-block,ads,medium,block,Impact ad image endpoint observed during real-device browsing,cautious manual diff review,2026-05-16
+analytics-ipv6.tiktokw.us,cautious-block,analytics,medium,block,TikTok-like analytics endpoint observed during real-device browsing,cautious manual diff review,2026-05-16

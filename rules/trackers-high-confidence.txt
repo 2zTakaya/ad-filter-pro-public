@@ -58,6 +58,8 @@ secure.quantserve.com
 imrworldwide.com
 secure-us.imrworldwide.com
 beacon.watch.impress.co.jp
+analytics.tiktok.com
+ups.analytics.yahoo.com
 
 demdex.net
 everesttech.net

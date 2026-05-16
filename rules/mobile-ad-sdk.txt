@@ -220,6 +220,10 @@ marketplace-android-b146.hyprmx.com
 maio.jp
 ad.maio.jp
 spapi.i-mobile.co.jp
+imp-adedge.i-mobile.co.jp
+imp-bidapi.i-mobile.co.jp
+spnativeapi-tls.i-mobile.co.jp
+spvideo.i-mobile.co.jp
 
 nend.net
 ad1.nend.net
@@ -245,6 +249,7 @@ adgen-ad.com
 
 fluct.jp
 ad.fluct.jp
+cs.fluctssp.smt.docomo.ne.jp
 pdn.adingo.jp
 
 genieesspv.jp

@@ -19,6 +19,17 @@ sessions.bugsnag.com
 browser-intake-datadoghq.com
 http-intake.logs.datadoghq.com
 http-encrypted-intake.logs.datadoghq.com
+sdk.n-analytics.io
+mybbc-analytics.files.bbci.co.uk
+cdn.actagtracker.jp
+pixel.wp.com
+ms-ads-monitoring-events.presage.io
+adtrack.adleadevent.com
+track.amebame.com
+v2.pixel.newscgp.com
+y.one.impact-ad.jp
+img.ak.impact-ad.jp
+analytics-ipv6.tiktokw.us
 consensu.org
 cmp.inmobi.com
 fundingchoicesmessages.google.com
