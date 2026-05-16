@@ -9,6 +9,9 @@
 api.repro.io
 api.karte.io
 js.hs-analytics.net
+www.clarity.ms
+scripts.clarity.ms
+b.clarity.ms
 app-measurement.com
 google-analytics.com
 googletagmanager.com

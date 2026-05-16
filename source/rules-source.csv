@@ -91,6 +91,9 @@ amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon advertising system domai
 aax.amazon-adsystem.com,mobile-ad-sdk,ads,high,block,Amazon ad exchange endpoint validated during EC/browser testing,real-device phase 2 review,2026-05-15
 yads.c.yimg.jp,ads-high-confidence,ads,high,block,Yahoo Japan ad delivery host repeatedly observed in real-device browser testing,real-device phase 3 review,2026-05-16
 js.hs-analytics.net,cautious-block,analytics,medium,block,HubSpot analytics script host observed in real-device browser testing,cautious phase 3 review,2026-05-16
+www.clarity.ms,cautious-block,analytics,medium,block,Microsoft Clarity analytics endpoint observed as an unblocked candidate during Phase 5.1 browsing,cautious phase 5.1 review,2026-05-16
+scripts.clarity.ms,cautious-block,analytics,medium,block,Microsoft Clarity script endpoint observed as an unblocked candidate during Phase 5.1 browsing,cautious phase 5.1 review,2026-05-16
+b.clarity.ms,cautious-block,analytics,medium,block,Microsoft Clarity beacon endpoint observed as an unblocked candidate during Phase 5.1 browsing,cautious phase 5.1 review,2026-05-16
 api.repro.io,cautious-block,analytics,medium,block,Repro analytics/user-profile API endpoint,official SDK/product documentation category,2026-05-14
 api.karte.io,cautious-block,analytics,medium,block,KARTE app analytics / engagement API endpoint,official SDK/product documentation category,2026-05-15
 sentry.io,cautious-block,analytics,medium,block,Sentry error reporting platform domain,official SDK/product documentation category,2026-05-15
