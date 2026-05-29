@@ -1,6 +1,6 @@
 ! Ad Filter Pro - Mobile Ad SDK Candidates
 ! Medium-confidence candidates. Do not enable by default.
-! Promote to mobile-ad-sdk.txt only after official endpoint confirmation or real-device log validation.
+! Promote to mobile-ad-sdk.txt only after confidence and compatibility checks.
 
 adjoe.io
 prod.adjoe.zone
@@ -38,7 +38,7 @@ adsdk.yandex.ru
 
 yieldone.com
 
-! Observed on real device, needs additional review before default block.
+! Needs additional confidence before default block.
 spadsync.com
 a.pemsrv.com
 s.pemsrv.com
@@ -50,8 +50,7 @@ media.trafficjunky.net
 tsyndicate.com
 lcdn.tsyndicate.com
 
-! Auto-extracted from full-device log review (2026-05-14); pending promotion review.
-! Promoted on 2026-05-14:
+! Previously promoted:
 ! ogads-pa.clients6.google.com
 ! d-cache.microad.jp
 ! yads.yjtag.yahoo.co.jp
@@ -64,8 +63,7 @@ lcdn.tsyndicate.com
 ! ep1.adtrafficquality.google
 ! img.polymorphicads.jp
 
-! Auto-extracted from real-device afternoon review (2026-05-15); pending promotion review.
-! Promoted on 2026-05-16:
+! Additional candidates:
 ! yads.c.yimg.jp
 assets.adobedtm.com
 tck.lmadps.jp

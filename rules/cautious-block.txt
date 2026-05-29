@@ -2,7 +2,7 @@
 ! Medium-confidence rules. Strong mode or suggestion only.
 ! Do not enable by default.
 
-! Add candidates here only after observing repeated blocks and no allow history.
+! Add entries here only after confidence and compatibility checks.
 
 ! Consent/CMP and anti-adblock related domains can improve browsing comfort,
 ! but they can also break site flows. Keep them out of balanced defaults.

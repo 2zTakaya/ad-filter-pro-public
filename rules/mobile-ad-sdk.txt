@@ -267,7 +267,7 @@ api.pubnative.net
 cdn.pubnative.net
 hybid.pubnative.net
 
-! Promoted from real-device full-log review (2026-05-14)
+! Additional mobile advertising endpoints
 d-cache.microad.jp
 yads.yjtag.yahoo.co.jp
 edge.ads.twitch.tv

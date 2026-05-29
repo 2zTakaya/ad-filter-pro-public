@@ -80,30 +80,7 @@ Avoid spending early effort on:
 - enterprise SaaS analytics unless seen frequently on mobile
 - large generic block categories that increase false positives
 
-## Release Flow
+## Public Contents
 
-1. Review candidate domains.
-2. Check false-positive risk.
-3. Add to the correct category file.
-4. Update `manifest.json`.
-5. Publish via GitHub raw URLs or release assets.
-
-Human-readable update notes for recent rule changes are kept under `meta/`.
-
-## Internal Source CSV
-
-The preferred long-term workflow is:
-
-```text
-source/rules-source.csv -> tools/generate-feeds.ps1 -> generated-rules/*.txt
-```
-
-`source/rules-source.csv` keeps the review reason, category, confidence, and
-review basis for each domain. Public feed files can stay simple and lightweight.
-
-The generator is intentionally small and deterministic so it can be reviewed
-easily before publishing.
-
-The current CSV is a starter seed, not yet a complete mirror of every manual
-entry in `rules/*.txt`. Before switching to generated feeds as the source of
-truth, backfill the remaining manually curated entries into the CSV.
+This repository contains only public feed files and the manifest needed by
+clients. Non-feed working files are managed outside this public repository.
